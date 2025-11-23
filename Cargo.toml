@@ -7,8 +7,8 @@ license = "MIT"
 authors = ["Belurgas <morethenworking@outlook.com>"]
 repository = "https://github.com/belurgas/farmer"
 homepage = "https://github.com/belurgas/farmer"
-keywords = ["telegram", "async", "webhook"]
-categories = ["asynchronous", "network-programming", "bot"]
+keywords = ["telegram", "bot", "async", "teloxide", "webhook"]
+categories = ["asynchronous", "network-programming"]
 readme = "README.md"
 
 [dependencies]
