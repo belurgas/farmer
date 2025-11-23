@@ -10,5 +10,6 @@ homepage = "https://github.com/belurgas/farmer"
 keywords = ["telegram", "bot", "async", "teloxide", "webhook"]
 categories = ["asynchronous", "network-programming"]
 readme = "README.md"
+documentation = "https://docs.rs/farmer"
 
 [dependencies]
